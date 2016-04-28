@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="03.contact.css"?>
+
+<contactList> 
+  <contact id="946b13a7c15247f78297f8b05b44a49a"> 
+    <name>554</name>  
+    <gender>女</gender>  
+    <age>515145</age>  
+    <phone>5456</phone>  
+    <email>5645</email>  
+    <qq>564</qq> 
+  </contact>  
+  <contact id="4820cd78194f4d11b46ac188ee04a72a">
+    <name>54564</name>
+    <gender>男</gender>
+    <age>5454</age>
+    <phone>85645</phone>
+    <email>564</email>
+    <qq>5456</qq>
+  </contact>
+</contactList>
