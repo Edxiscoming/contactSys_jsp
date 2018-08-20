@@ -6,7 +6,7 @@ package gz.itcast.contactSys_web.entity;
  */
 public class Contact {
 
-	private String id;
+	private String ids;
 	private String name;
 	private String gender;
 	private int age;
