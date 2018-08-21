@@ -5,7 +5,6 @@ package gz.itcast.contactSys_web.entity;
  *
  */
 public class Contact {
-
 	private String ids;
 	private String name;
 	private String gender;
@@ -13,6 +12,7 @@ public class Contact {
 	private String phone;
 	private String email;
 	private String qq;
+	private String hhh;
 	public String getId() {
 		return id;
 	}
