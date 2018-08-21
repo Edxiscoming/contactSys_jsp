@@ -13,6 +13,7 @@ public class Contact {
 	private String email;
 	private String qq;
 	private String hhh;
+	private String sss;
 	public String getId() {
 		return id;
 	}
@@ -55,6 +56,7 @@ public class Contact {
 	public void setQq(String qq) {
 		this.qq = qq;
 	}
+	
 	@Override
 	public String toString() {
 		return "Contact [age=" + age + ", email=" + email + ", gender="
